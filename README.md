@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tech Pioneers Club - Landing Page
 
 A modern, animation-rich landing page for Tech Pioneers Club built with React and Next.js.
@@ -145,3 +146,7 @@ npm start
 ## 📄 License
 
 © 2025 Tech Pioneers Club. All rights reserved.
+=======
+# Tech_Club
+Tech Pioneers Club is a volunteer-driven initiative dedicated to empowering youth and communities through free access to technology education, innovation, and digital collaboration. Our mission is to inspire , creativity, and problem-solving by providing a supportive environment for learning coding, digital skills, and project-based volunteering.
+>>>>>>> 814a6fba1cd18ee1a49bfdbaa3cf39faa708945d
